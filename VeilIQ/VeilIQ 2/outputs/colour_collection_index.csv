@@ -1,0 +1,49 @@
+collection,colour,units,demand_index,rank_in_collection
+Back to School,Black,641,122.0,1
+Back to School,Navy,338,112.0,2
+Back to School,Nude,513,108.0,3
+Back to School,Mocha,257,93.0,4
+Back to School,Burgundy,155,86.0,5
+Back to School,Sage,190,86.0,6
+Back to School,Dusty Rose,174,75.0,7
+Back to School,Ivory,141,71.0,8
+Fall,Mocha,350,135.0,1
+Fall,Burgundy,203,120.0,2
+Fall,Navy,322,114.0,3
+Fall,Black,538,108.0,4
+Fall,Nude,412,92.0,5
+Fall,Sage,157,75.0,6
+Fall,Dusty Rose,156,72.0,7
+Fall,Ivory,133,71.0,8
+Ramadan & Eid,Ivory,352,169.0,1
+Ramadan & Eid,Dusty Rose,385,159.0,2
+Ramadan & Eid,Sage,251,108.0,3
+Ramadan & Eid,Burgundy,188,100.0,4
+Ramadan & Eid,Nude,428,86.0,5
+Ramadan & Eid,Navy,259,82.0,6
+Ramadan & Eid,Mocha,227,79.0,7
+Ramadan & Eid,Black,433,79.0,8
+Spring,Sage,163,150.0,1
+Spring,Dusty Rose,135,119.0,2
+Spring,Nude,258,110.0,3
+Spring,Black,255,99.0,4
+Spring,Ivory,94,96.0,5
+Spring,Mocha,114,84.0,6
+Spring,Navy,110,74.0,7
+Spring,Burgundy,56,63.0,8
+Summer,Sage,412,159.0,1
+Summer,Ivory,312,134.0,2
+Summer,Nude,714,128.0,3
+Summer,Dusty Rose,324,120.0,4
+Summer,Navy,292,83.0,5
+Summer,Black,468,76.0,6
+Summer,Mocha,203,63.0,7
+Summer,Burgundy,97,46.0,8
+Winter,Burgundy,384,157.0,1
+Winter,Mocha,505,135.0,2
+Winter,Navy,488,119.0,3
+Winter,Black,828,116.0,4
+Winter,Nude,529,82.0,5
+Winter,Dusty Rose,216,69.0,6
+Winter,Ivory,167,62.0,7
+Winter,Sage,155,52.0,8
